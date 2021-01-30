@@ -1,0 +1,38 @@
+.splide {
+	
+	margin:0 auto;
+	width:500px;
+	height:300px;
+}
+
+.splide__track {
+
+	width:400px;
+}
+
+.splide__list img {
+	height:200px;
+	margin:0 5%;
+	
+}
+
+@media (max-width: 500px){
+	.splide {
+	
+	margin:0 auto;
+	width:200px;
+	height:300px;
+}
+
+.splide__track {
+
+	width:200px;
+}
+
+.splide__list img {
+	height:200px;
+	margin:0 -10%;
+	
+}
+
+}
