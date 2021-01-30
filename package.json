@@ -1,0 +1,22 @@
+{
+  "name": "trainin-intrestinthings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pooya2293/trainin-intrestinThings.git"
+  },
+  "author": "pooya2293",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pooya2293/trainin-intrestinThings/issues"
+  },
+  "homepage": "https://github.com/pooya2293/trainin-intrestinThings#readme",
+  "dependencies": {
+    "@splidejs/splide": "^2.4.21"
+  }
+}
