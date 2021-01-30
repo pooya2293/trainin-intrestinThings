@@ -1,1 +1,0 @@
-var projectName = require("@splidejs/splide");
